@@ -1,4 +1,3 @@
-# typescript-jest
 ## Project setup
 ```
 npm install
